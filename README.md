@@ -1,5 +1,13 @@
 # 2024 Cleveland Cavaliers Sport Business and Analytics Night Hackathon
 
+This repo contains one of the two winning submissions for this competition.
+
+[Presentation PDF](prez.pdf)
+
+Prompt for the competition is given below.
+
+---
+
 ## I. Introduction
 In today's data-driven world, transactional data plays a crucial role across all industries, especially in the sport industry, by providing detailed insights into customer interactions and business operations. This type of data captures every aspect of a transaction, including the "who", "what", "when", and "where," which allows organizations to track trends, monitor performance, and make informed decisions in real-time. By understanding purchasing behaviors and preferences, businesses can tailor their offerings to meet the specific needs of their customers, ultimately driving growth and profitability.
 
